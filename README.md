@@ -1,13 +1,11 @@
 # swow
-A Basic Stock Analyis Tools. This tool will grab finance data(DataFrame structure) from tushare API.
-Then will apply some strategies to analyze some valuable stocks.
-
+A Basic Stock Analyis Tools. 
+This tool grabs financial data(DataFrame structure) from tushare API(http://tushare.org/index.html), and then apply some strategies to analyze some valuable stocks.
 
 #Installation
 1. Install python3
-2. Install dependencies
-pip install -i https://pypi.douban.com/simple pandas
-pip install lxml (you can download directly from https://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml)
-pip install requests
-pip install bs4
-pip install tushare	
+2. pip install -i https://pypi.douban.com/simple pandas
+3. pip install lxml (you can download directly from https://www.lfd.uci.edu/~gohlke/pythonlibs/#lxml)
+4. pip install requests
+5. pip install bs4
+6. pip install tushare	
